@@ -11,11 +11,6 @@ The following website is intended to be a collection of key information regardin
 ### ⭐ Header:
 
 * UK heart logo to act as the home button.
-
-<p align="center">
-<img src="https://github.com/migleambr/html_lab/blob/main/assets/UK_heart_large.png?raw=true" data-canonical-src="https://github.com/migleambr/html_lab/blob/main/assets/UK_heart_large.png?raw=true" alt="UK heart logo" width="40"/>
-</p>
-
 * Nav bar of titles each including a drop-down list of related information.
 * Search box with a button to initiate the search request.
 * User's profile icon as a button to direct the user to their profile.
@@ -48,11 +43,7 @@ The following website is intended to be a collection of key information regardin
 * A collection of all countries participating in 2023 which the user can scroll through using the vertical scroll bar.
 
 * For ***each country***:
-	* 	Image of that country's heart logo. 
-<p align="center">
-<img src="https://github.com/migleambr/html_lab/blob/main/assets/Italy_heart.png?raw=true" data-canonical-src="https://github.com/migleambr/html_lab/blob/main/assets/Italy_heart.png?raw=true" alt="Italy heart logo" width="40"/>
-<img src="https://github.com/migleambr/html_lab/blob/main/assets/Sweden_heart.png?raw=true" data-canonical-src="https://github.com/migleambr/html_lab/blob/main/assets/Sweden_heart.png?raw=true" alt="Sweden heart logo" width="40"/>
-</p>
+	* Image of that country's heart logo. 
 	* Three buttons to direct the user to that country's entry's social media pages - YouTube video of the national final performance, the entry song on Spotify and the artists' Instagram page.
 	* Short description.
 
