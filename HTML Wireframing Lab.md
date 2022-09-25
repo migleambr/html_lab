@@ -57,8 +57,10 @@ The following website is intended to be a collection of key information regardin
 ## Wireframes:
 
 ### Mobile design:
-<img src="file:///Users/migle/coursework/week_07/day%204/html_lab/wireframes/WF_mobile.png" alt="Website wireframe for mobile" width="200"> 
-<img src="file:///Users/migle/coursework/week_07/day%204/html_lab/wireframes/prototype_mobile.png" alt="Website prototype for mobile" width="200"> 
+<img src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_mobile.png?raw=true" data-canonical-src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_mobile.png?raw=true" width="200" 
+/>
+<img src="https://github.com/migleambr/html_lab/blob/main/wireframes/prototype_mobile.png?raw=true" data-canonical-src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_mobile.png?raw=true" width="200" 
+/>
 
 ### Laptop design:
 <img src="file:///Users/migle/coursework/week_07/day%204/html_lab/wireframes/WF_desktop.png" alt="Website wireframe for laptop"> 
