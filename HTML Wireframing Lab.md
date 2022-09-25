@@ -58,8 +58,8 @@ The following website is intended to be a collection of key information regardin
 
 ### Mobile design:
 
-<img src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_mobile.png?raw=true" data-canonical-src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_mobile.png?raw=true" alt="Website wireframe for mobile" width="300"/>
-<img src="https://github.com/migleambr/html_lab/blob/main/wireframes/prototype_mobile.png?raw=true" data-canonical-src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_mobile.png?raw=true" alt="Website prototype for mobile" width="300"/>
+<img src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_mobile.png?raw=true" data-canonical-src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_mobile.png?raw=true" alt="Website wireframe for mobile" width="250"/>
+<img src="https://github.com/migleambr/html_lab/blob/main/wireframes/prototype_mobile.png?raw=true" data-canonical-src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_mobile.png?raw=true" alt="Website prototype for mobile" width="250"/>
 
 ### Laptop design:
 
