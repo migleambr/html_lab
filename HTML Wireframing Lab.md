@@ -51,10 +51,7 @@ The following website is intended to be a collection of key information regardin
 * Nav bar of helpful links in relation to the website.
 * Copyright key. 
 
-
-## Wireframes:
-
-### Mobile design 📲
+## Mobile design wireframe 📲
 
 <p align="center">
 
@@ -63,7 +60,7 @@ The following website is intended to be a collection of key information regardin
 
 </p>
 
-### Laptop design 👩🏼‍💻
+## Laptop design wireframe 👩🏼‍💻 
 
 <p align="center">
 
