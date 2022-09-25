@@ -57,12 +57,14 @@ The following website is intended to be a collection of key information regardin
 ## Wireframes:
 
 ### Mobile design:
-<img src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_mobile.png?raw=true" data-canonical-src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_mobile.png?raw=true" width="200" 
-/>
-<img src="https://github.com/migleambr/html_lab/blob/main/wireframes/prototype_mobile.png?raw=true" data-canonical-src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_mobile.png?raw=true" width="200" 
-/>
+
+<img src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_mobile.png?raw=true" data-canonical-src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_mobile.png?raw=true" alt="Website wireframe for mobile" width="300"/>
+<img src="https://github.com/migleambr/html_lab/blob/main/wireframes/prototype_mobile.png?raw=true" data-canonical-src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_mobile.png?raw=true" alt="Website prototype for mobile" width="300"/>
 
 ### Laptop design:
-<img src="file:///Users/migle/coursework/week_07/day%204/html_lab/wireframes/WF_desktop.png" alt="Website wireframe for laptop"> 
-<img src="file:///Users/migle/coursework/week_07/day%204/html_lab/wireframes/prototype_desktop.png" alt="Website prototype for laptop"> 
+
+<img src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_desktop.png?raw=true" data-canonical-src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_desktop.png?raw=true" alt="Website wireframe for laptop"/>
+
+<img src="https://github.com/migleambr/html_lab/blob/main/wireframes/prototype_desktop.png?raw=true" data-canonical-src="https://github.com/migleambr/html_lab/blob/main/wireframes/prototype_desktop.png?raw=true" alt="Website prototype for laptop"/>
+
 
