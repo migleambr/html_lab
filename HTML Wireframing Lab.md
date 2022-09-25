@@ -23,16 +23,15 @@ The following website is intended to be a collection of key information regardin
 
 ### ⭐ Section 2:
 
-* On the left, articles dedicated to all previous Eurovision winners. 
-* On the right, an article dedicated solely to one specific country's entry - updated daily to highlight all entries leading up to the event.
-
-* For the ***Winners section*** 🏆:
+* On the left, articles dedicated to ***all previous Eurovision winners*** 🏆:
 	* Two article entries across the entire section.
 	* For each article, an image on the left of that year's Eurovision winners.
 	* Short description.
 	* At the bottom of the text, four buttons to the artists' social media pages - Twitter, Instagram, Spotify and Facebook.
 	* A horizontal scroll bar at the very bottom of the section for the user to see all previous Eurovision winners in descending order.
-* For the ***Country of the Day section*** 🇱🇹:
+
+
+* On the right, an article dedicated solely to ***one specific country's entry*** - updated daily to highlight all entries leading up to the event:
 	* Short description.
 	* A Youtube video showing that country's national final performance.
 	* A heart button for the user to add a specific country to their list of favourites.
