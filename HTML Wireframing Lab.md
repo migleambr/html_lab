@@ -57,11 +57,20 @@ The following website is intended to be a collection of key information regardin
 ## Wireframes:
 
 ### Mobile design:
+
+<p align="center">
+
 <img src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_mobile.png?raw=true" data-canonical-src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_mobile.png?raw=true" alt="Website wireframe for mobile" width="200"/>
 <img src="https://github.com/migleambr/html_lab/blob/main/wireframes/prototype_mobile.png?raw=true" data-canonical-src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_mobile.png?raw=true" alt="Website prototype for mobile" width="200"/>
 
-### Laptop design:
-<img src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_desktop.png?raw=true" data-canonical-src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_desktop.png?raw=true" alt="Website wireframe for laptop"/>
-<img src="https://github.com/migleambr/html_lab/blob/main/wireframes/prototype_desktop.png?raw=true" data-canonical-src="https://github.com/migleambr/html_lab/blob/main/wireframes/prototype_desktop.png?raw=true" alt="Website prototype for laptop"/>
+</p>
 
+### Laptop design:
+
+<p align="center">
+
+<img src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_desktop.png?raw=true" data-canonical-src="https://github.com/migleambr/html_lab/blob/main/wireframes/WF_desktop.png?raw=true" alt="Website wireframe for laptop" width="600"/>
+<img src="https://github.com/migleambr/html_lab/blob/main/wireframes/prototype_desktop.png?raw=true" data-canonical-src="https://github.com/migleambr/html_lab/blob/main/wireframes/prototype_desktop.png?raw=true" alt="Website prototype for laptop" width="600"/>
+
+</p>
 
