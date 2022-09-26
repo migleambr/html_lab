@@ -1,0 +1,86 @@
+body {
+    margin: 1%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+header {
+    background-color: #00237C;
+    color: white;
+    display: flex;
+    align-items: center;
+    font-size: 1.25em;
+}
+
+.header_left {
+    width: 60%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.header_left button {
+    border: none;
+    background-color: transparent;
+    margin: 5px;
+}
+
+.header_left nav {
+    width: 60%; 
+    display: flex; 
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.header_left nav summary {
+    list-style: none;
+}
+
+.header_left nav a{
+    color: white;
+    text-decoration: none;
+}
+
+.header_right {
+    width: 40%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 5px
+}
+
+.header_right form input {
+    border: 8px solid white;
+    border-radius: 30px;
+    width: 80%;
+    height: 35px;
+    padding-right: 100px;
+    font-size: 1em;
+}
+
+#search_icon {
+    border: none;
+    background-color: transparent;
+}
+
+#user_icon {
+    border: none;
+    background-color: transparent;
+    margin: 5px;
+    padding-right: 0px;
+    margin-right: 0px;
+}
+
+#kebab_menu {
+    padding-right: 5px;
+}
+
+#kebab_menu summary {
+    list-style: none
+}
+
+#kebab_menu a { 
+    color: white;
+    text-decoration: none;
+}
+
