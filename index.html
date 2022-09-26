@@ -77,9 +77,11 @@
             <div class="winners">
                 <article class="winners__card">
                     <h2>Winners 2022</h2>
-                    <img src="./assets/ukraine_winners.png" alt="Picture of Eurovision 2022 Winners - Ukraine's entry Kalush Orchestr." width="300" height="200">
+                    <div class="winners_photo">
+                        <img src="./assets/ukraine_winners.png" alt="Picture of Eurovision 2022 Winners - Ukraine's entry Kalush Orchestr." width="200" height="133">
+                    </div>
                     <p>Nullam turpis ligula, condimentum nec laoreet a, sodales et sem. Etiam suscipit arcu vel eros consequat, non malesuada massa lobortis.</p>
-                    <div class="social_media_buttons">
+                    <div class="winners_social_media_buttons">
                         <button><img src="./assets/twitter_icon.png" alt="Twitter icon." width="25" height="25"></button>
                         <button><img src="./assets/ig_icon.png" alt="Instagram icon." width="25" height="25"></button>
                         <button><img src="./assets/spotify_icon.png" alt="Spotify icon." width="25" height="25"></button>
@@ -88,27 +90,33 @@
                 </article>
                 <article class="winners__card">
                     <h2>Winners 2021</h2>
-                    <img src="./assets/italy_winners.png" alt="Picture of Eurovision 2021 Winners - Italy's entry Måneskin." width="300" height="172.5">
+                    <div class="winners_photo">
+                        <img src="./assets/italy_winners.png" alt="Picture of Eurovision 2021 Winners - Italy's entry Måneskin." width="200" height="115">
+                    </div>
                     <p>Nullam turpis ligula, condimentum nec laoreet a, sodales et sem. Etiam suscipit arcu vel eros consequat, non malesuada massa lobortis.</p>
-                    <div class="social_media_buttons">
+                    <div class="winners_social_media_buttons">
                         <button><img src="./assets/twitter_icon.png" alt="Twitter icon." width="25" height="25"></button>
                         <button><img src="./assets/ig_icon.png" alt="Instagram icon." width="25" height="25"></button>
                         <button><img src="./assets/spotify_icon.png" alt="Spotify icon." width="25" height="25"></button>
                         <button><img src="./assets/facebook_icon.png" alt="Facebook icon." width="25" height="25"></button>
                     </div>
                 </article>
-                <progress id="scroll_bar" max="100" value="10"></progress>
+                <div id="winners_scroll_bar">
+                    <progress max="100" value="10"></progress>
+                </div>
             </div>
             <div class="country_of_the_day">
                 <article class="country_of_the_day__card">
                     <h2>Country of the Day</h2>
                     <p>Donec venenatis orci arcu, et efficitur odio hendrerit quis. Phasellus lobortis neque urna, ac egestas elit condimentum sed.</p>
                     <p>Cras eget ipsum urna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam accumsan, sem ut fermentum suscipit, nunc dui sagittis nibh, sed sagittis purus augue nec ante.</p>
-                    <iframe width="420" height="238.5" src="https://www.youtube.com/embed/BVqSTVJhD44">
-                    </iframe>
+                    <div id="LTU_youtube">
+                        <iframe width="420" height="238.5" src="https://www.youtube.com/embed/BVqSTVJhD44">
+                        </iframe>
+                    </div>
                 </article>
                 <div class="subscription_form">
-                    <button><img src="./assets/white_heart.png" alt="White heart symbol." width="10" height="10"></button>
+                    <button id="fav_heart"><img src="./assets/white_heart.png" alt="White heart symbol." width="20" height="20"></button>
                     <input type="email" placeholder="Join our mailing list!" id="email">
                     <button>Submit!</button>
                 </div>

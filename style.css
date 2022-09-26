@@ -1,10 +1,10 @@
 body {
     margin: 1%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  }
+}
 
 header {
-    background-color: #00237C;
+    background-color: #001a5d;
     color: white;
     display: flex;
     align-items: center;
@@ -87,6 +87,12 @@ header {
 .hero {
     display: grid;
     grid-template-columns: 1fr 3fr;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.hero h1 {
+    font-size: 2.25em;
 }
 
 .intro_text {
@@ -98,6 +104,118 @@ header {
     width: 90%;
     line-height: 2;
     font-size: 105%;
+    margin-top: 0px;
 }
 
+.eurovision_content {
+    background-color: #001a5d;
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
 
+.winners__card {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    margin-bottom: 40px;
+}
+
+.winners__card p {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    align-self: end;
+    width: 85%;
+    line-height: 1.5;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 1.05em;
+}
+
+.winners__card h2 {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    align-self: start;
+}
+
+.winners_photo {
+    display: grid;
+    justify-self: center;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    margin-top: 20px;
+}
+
+.winners_social_media_buttons {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    align-self: end;
+}
+
+.winners_social_media_buttons button {
+    border: none;
+    background-color: transparent;
+    margin-right: 20px;
+}
+
+#winners_scroll_bar {
+    margin-right: 0px;  
+    margin-top: 30px;
+    text-align: center;
+}
+
+.country_of_the_day__card h2 {
+    display: flex;
+    justify-content: center;
+    font-size: 1.85em;
+}
+
+.country_of_the_day__card p {
+    width: 85%;
+    margin-left: 60px;
+    line-height: 1.5;
+    font-size: 1.05em;
+}
+
+#LTU_youtube {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.subscription_form {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#fav_heart {
+    border: none;
+    background-color: transparent;
+    margin-right: 5px;
+}
+
+.subscription_form input[type=email] {
+    margin-right: 5px;
+    border: 8px solid white;
+    border-radius: 15px;
+    padding-right: 100px;
+}
+
+.subscription_form button {
+    border: 8px solid white;
+    border-radius: 15px;
+    background-color: white;
+}
