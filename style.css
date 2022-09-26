@@ -84,3 +84,20 @@ header {
     text-decoration: none;
 }
 
+.hero {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+
+.intro_text {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.intro_text p {
+    width: 90%;
+    line-height: 2;
+    font-size: 105%;
+}
+
+
