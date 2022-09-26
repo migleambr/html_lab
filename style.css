@@ -120,6 +120,7 @@ header {
     display: grid;
     grid-template-columns: 1fr 2fr;
     margin-bottom: 40px;
+    margin-left: 10px;
 }
 
 .winners__card p {
@@ -133,6 +134,7 @@ header {
     margin-top: 0px;
     margin-bottom: 0px;
     font-size: 1.05em;
+    margin-left: 10px;
 }
 
 .winners__card h2 {
@@ -141,6 +143,7 @@ header {
     grid-row-start: 1;
     grid-row-end: 2;
     align-self: start;
+    margin-left: 10px;
 }
 
 .winners_photo {
@@ -160,6 +163,7 @@ header {
     grid-row-end: 3;
     margin-top: 30px;
     margin-bottom: 10px;
+    margin-left: 10px;
     align-self: end;
 }
 
@@ -173,6 +177,10 @@ header {
     margin-right: 0px;  
     margin-top: 30px;
     text-align: center;
+}
+
+.country_of_the_day__card {
+    margin-right: 15px;
 }
 
 .country_of_the_day__card h2 {
